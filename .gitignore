@@ -27,8 +27,11 @@
 *.lib
 
 # Other
-.suo
-.db
+*.suo
+*.db
 #.opendb
 .vs/
-.log
+*.log
+*.tlog
+*.idb
+*.pdb
